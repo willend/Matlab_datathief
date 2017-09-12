@@ -2,7 +2,7 @@
 Small Matlab GUI-tool allowing to pick a series of plot datapoints from an imported image.
 
 Usage:
-1) Load a (png or other bitmap) version of a graph, e.g. 
+1) Load a (png or other bitmap) version of a graph, e.g. (https://github.com/willend/Matlab_datathief/raw/master/test.jpg "example image")
 ![Example image](https://github.com/willend/Matlab_datathief/raw/master/test.jpg "example image")
 
 2) Define your axis to be linear, lin-log, log-lin or log-log
